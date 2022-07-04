@@ -9,22 +9,22 @@
 title: Hango.io Website
 
 # Your name to show in the footer
-author: Some Person
+author: hango.io
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  # About Me: "aboutme"
+  博客: "categories"
+  官方教程:
+    - 中文: "https://github.com/hango-io/hango-gateway"
+    - English: "https://github.com/hango-io/hango-gateway/blob/master/README.EN.md"
+  交流: "https://github.com/hango-io/hango-gateway#%E4%BA%A4%E6%B5%81"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/logo.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "hango.gateway@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
