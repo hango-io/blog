@@ -2,8 +2,8 @@
 layout: post
 title: Hango网关进阶之路 - 打造更丰富场景云原生网关
 subtitle: Hango网关架构升级以及新功能介绍
-cover-img: /assets/img/plugin/rider.jpeg
-thumbnail-img: /assets/img/plugin/rider_plugin.png
+cover-img: /assets/img/cover/galaxy-2.jpeg
+thumbnail-img: /assets/img/cover/nature-scene-1.png
 share-img: /assets/img/path.jpg
 tags: [overview]
 ---
