@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hano 网关架构升级
+title: Hango网关进阶之路 - 打造更丰富场景云原生网关
 subtitle: Hango网关架构升级以及新功能介绍
 cover-img: /assets/img/plugin/rider.jpeg
 thumbnail-img: /assets/img/plugin/rider_plugin.png
