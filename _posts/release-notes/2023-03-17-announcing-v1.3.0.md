@@ -12,9 +12,9 @@ tags: [release-notes]
 
 ### 新功能
 
-- [支持虚拟网关形态，基于不同功能需求创建不同类型虚拟网关](https://github.com/hango-io/portal/commit/eb61aa8d097fe59cee407f9e7afe1ca388853c60)
+- [支持虚拟网关形态，基于不同功能需求创建不同类型虚拟网关](https://hango-io.github.io/website/user-guide/best-practices/virtual-gateway/virtual-gateway/)
 
-- [支持纳管预览用户Gateway API，支持多类插件增强](https://github.com/hango-io/api-plane/commit/c53574e9dbfc89ae0e4c8f50da366a8de5af9451)
+- [支持纳管预览用户Gateway API，支持多类插件增强](https://hango-io.github.io/website/user-guide/best-practices/virtual-gateway/kubernetes-gateway-API/)
 
 
 ### 工程增强
