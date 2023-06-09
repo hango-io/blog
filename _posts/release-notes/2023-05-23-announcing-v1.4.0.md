@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Announcing Hango 2.1.0
-subtitle: Hango v2.1.0 release announcement.
+title: Announcing Hango 1.4.0
+subtitle: Hango v1.4.0 release announcement.
 cover-img: /assets/img/cover/natual-scene-1.png
 thumbnail-img: /assets/img/hango/gateway.jpeg
 share-img: /assets/img/hango/gateway.jpeg
 tags: [release-notes]
 ---
 
-本次更新是Hango正式版v2.1.0的发布。
+本次更新是Hango正式版v1.4.0的发布。
 
 1、本次更新将上一版本的模型做了优化，取消服务路由元数据
 
